@@ -218,15 +218,3 @@ El proyecto fue desarrollado siguiendo estos pasos:
 5. **Documentación**:
    - Creación de este README con instrucciones y ejemplos
    - Comentarios en el código para facilitar su comprensión y mantenimiento
-
-## Conclusión
-
-Este proyecto demuestra la implementación de una aplicación Java simple pero completa, utilizando Maven para gestionar dependencias y construir el proyecto. La integración de commons-cli permite un manejo profesional de los argumentos de línea de comandos, mientras que log4j proporciona un sistema de logging robusto.
-
-El resultado final es un único archivo JAR ejecutable que contiene toda la aplicación y sus dependencias, facilitando su distribución y uso.
-
-La estructura del proyecto sigue buenas prácticas de desarrollo, con separación de responsabilidades entre las diferentes clases y una configuración externa para el sistema de logging.
-
----
-
-*Este proyecto fue desarrollado como parte de la Actividad 2 para el curso de Programación de Vanguardia.*
