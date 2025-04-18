@@ -1,0 +1,37 @@
+# Carpeta target (contiene los archivos compilados y el JAR)
+target/
+
+# Archivos compilados
+*.class
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+nbproject/
+.metadata/
+bin/
+.factorypath
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
+hs_err_pid*
+
+# Carpetas de dependencias locales
+.mvn/
